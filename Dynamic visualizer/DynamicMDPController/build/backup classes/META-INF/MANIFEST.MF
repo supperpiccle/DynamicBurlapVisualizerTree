@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: 1.6.0_15 (Apple Inc.)
+Built-By: janey
+Build-Jdk: 1.6.0_15
+Export-Package: com.sun.el;uses:="javax.el";version="2.2"
+Private-Package: com.sun.el.parser;version="2.2",com.sun.el.lang;versi
+ on="2.2",com.sun.el.util;version="2.2"
+Bundle-Version: 2.2
+Tool: Bnd-0.0.311
+Bundle-Name: Expression Language Implementation
+Bnd-LastModified: 1258584462050
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.glassfish.web.el-impl
+Import-Package: com.sun.el;version="2.2",javax.el
+
